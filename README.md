@@ -1,14 +1,11 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Matheus%20Roberto&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=.NET%20Developer%20%7C%20Software%20Architecture%20%7C%20AI%20Integration&descAlignY=58&descColor=8b949e" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Matheus%20Roberto&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20Scalable%20Systems%20with%20.NET,%20Azure%20and%20AI&descAlignY=58&descColor=8b949e" />
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-roberto-58560917a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/.meister.m">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=MatheusRoberto-Git&style=flat-square&color=1f6feb" />
 </div>
@@ -17,41 +14,68 @@
 
 ---
 
-## 👋 About me
+# 👋 About Me
 
-.NET developer with solid experience across both Framework and Core, currently deepening my knowledge in software architecture, microservices, and AI/LLM integration on Azure cloud.
+Software Engineer with **7+ years of experience** building enterprise applications and backend solutions using .NET.
 
-I enjoy designing distributed systems, applying architectural patterns to real-world problems, and exploring how Large Language Models can be embedded into .NET applications to build smarter, more capable software.
+Throughout my career, I've worked across both .NET Framework and modern .NET ecosystems, designing APIs, integrating complex business processes and building scalable systems focused on maintainability, performance and long-term evolution.
+
+My current focus is software architecture, distributed systems, cloud-native solutions and AI integration using Large Language Models (LLMs).
+
+I enjoy transforming business requirements into robust technical solutions while continuously exploring new technologies, architectural patterns and best practices within the .NET ecosystem.
 
 ---
 
-## 🛠️ Tech Stack
+# 🎯 Core Expertise
+
+- ASP.NET Core APIs
+- Software Architecture
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- Event-Driven Architecture
+- Distributed Systems
+- Microservices
+- RabbitMQ & Messaging
+- SQL Server & PostgreSQL
+- Redis Caching
+- Azure Cloud
+- AI Integration
+- Docker & Kubernetes
+
+---
+
+# 🛠️ Tech Stack
 
 <div align="center">
 
 ### 💻 Languages & Frameworks
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### ☁️ Cloud & AI
+
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### 🗄️ Databases
+
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### 🔧 Libraries & Tools
+
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Dapper](https://img.shields.io/badge/Dapper-1C1C1C?style=for-the-badge&logo=nuget&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-### 🚢 DevOps & Infra
+### 🚢 DevOps & Infrastructure
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
@@ -59,35 +83,68 @@ I enjoy designing distributed systems, applying architectural patterns to real-w
 
 ---
 
-## 🚀 Currently exploring
+# 🚀 Continuous Specialization
 
-- Microservices patterns — API Gateway, Circuit Breaker, Saga, Outbox
-- Clean Architecture & DDD in distributed systems
-- Azure services — Service Bus, AKS, API Management, Azure OpenAI
-- LLM integration with .NET using Semantic Kernel & Azure OpenAI SDK
-- RAG pipelines, AI agents and prompt engineering for .NET backends
+Technology evolves quickly, and I believe continuous learning is a fundamental part of software engineering.
+
+Alongside my professional experience with .NET, I actively deepen my knowledge in modern architecture, cloud-native development and AI-powered applications.
+
+Current areas of specialization:
+
+- Software Architecture
+- Distributed Systems
+- Event-Driven Architecture
+- Microservices Patterns
+- Cloud Architecture on Azure
+- Kubernetes & Container Orchestration
+- Observability & Monitoring
+- Azure OpenAI
+- Semantic Kernel
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Performance & Scalability
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRoberto-Git&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb" />
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRoberto-Git&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MatheusRoberto-Git&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&fire=ff6b6b&currStreakLabel=1f6feb" />
+  <img src="https://streak-stats.demolab.com?user=MatheusRoberto-Git&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&currStreakLabel=1f6feb" />
 </div>
 
 ---
 
-## 📬 Contact
+# 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MatheusRoberto-Git&theme=algolia&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+# 📬 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-roberto-58560917a/)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/.meister.m)
+<a href="https://www.linkedin.com/in/matheus-roberto-58560917a/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### "First solve the problem. Then write the code."
+
+— John Johnson
 
 </div>
 
