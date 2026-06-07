@@ -114,19 +114,19 @@ Current areas of specialization:
 
 ---
 
-# 📊 GitHub Statistics
+## 📈 Profile Metrics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRoberto-Git&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRoberto-Git&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusRoberto-Git&theme=github_dark" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusRoberto-Git&bg_color=0d1117&color=34d399&line=10b981&point=6ee7b7&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MatheusRoberto-Git&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MatheusRoberto-Git&theme=github_dark" />
 
 </div>
 
