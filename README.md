@@ -118,14 +118,6 @@ Current areas of specialization:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRoberto-Git&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRoberto-Git&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusRoberto-Git&theme=github_dark" />
 
 </div>
