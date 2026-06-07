@@ -26,6 +26,16 @@ I enjoy transforming business requirements into robust technical solutions while
 
 ---
 
+# 🔭 Current Focus
+
+- Building scalable APIs with ASP.NET Core
+- Designing distributed systems and event-driven architectures
+- Cloud-native solutions on Azure
+- AI integration with Azure OpenAI and Semantic Kernel
+- Performance, scalability and software architecture
+
+---
+
 # 🎯 Core Expertise
 
 - ASP.NET Core APIs
@@ -37,8 +47,8 @@ I enjoy transforming business requirements into robust technical solutions while
 - Microservices
 - RabbitMQ & Messaging
 - SQL Server & PostgreSQL
-- Redis Caching
-- Azure Cloud
+- Redis
+- Azure
 - AI Integration
 - Docker & Kubernetes
 
@@ -56,7 +66,7 @@ I enjoy transforming business requirements into robust technical solutions while
 
 ### ☁️ Cloud & AI
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Semantic Kernel](https://img.shields.io/badge/Semantic_Kernel-512BD4?style=for-the-badge&logo=microsoft&logoColor=white)
 
@@ -87,8 +97,6 @@ I enjoy transforming business requirements into robust technical solutions while
 
 Technology evolves quickly, and I believe continuous learning is a fundamental part of software engineering.
 
-Alongside my professional experience with .NET, I actively deepen my knowledge in modern architecture, cloud-native development and AI-powered applications.
-
 Current areas of specialization:
 
 - Software Architecture
@@ -106,24 +114,14 @@ Current areas of specialization:
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRoberto-Git&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb" />
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRoberto-Git&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb" />
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRoberto-Git&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb" />
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=MatheusRoberto-Git&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=1f6feb&currStreakLabel=1f6feb" />
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRoberto-Git&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb" />
 
----
-
-# 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MatheusRoberto-Git&theme=algolia&no-frame=true&row=1&column=6" />
 </div>
 
 ---
@@ -142,9 +140,7 @@ Current areas of specialization:
 
 <div align="center">
 
-### "First solve the problem. Then write the code."
-
-— John Johnson
+### Building scalable software, one solution at a time.
 
 </div>
 
