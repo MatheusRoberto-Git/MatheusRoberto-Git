@@ -1,13 +1,13 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=200&section=header&text=Matheus%20Roberto&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20Scalable%20Systems%20with%20.NET,%20Azure%20and%20AI&descAlignY=58&descColor=8b949e" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:10b981,100:0d1117&height=200&section=header&text=Matheus%20Roberto&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20Scalable%20Systems%20with%20.NET,%20Azure%20and%20AI&descAlignY=58&descColor=d1fae5" />
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/matheus-roberto-58560917a/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=MatheusRoberto-Git&style=flat-square&color=1f6feb" />
+  <img src="https://komarev.com/ghpvc/?username=MatheusRoberto-Git&style=flat-square&color=10b981" />
 </div>
 
 <br/>
@@ -16,9 +16,9 @@
 
 # 👋 About Me
 
-Software Engineer with **7+ years of experience** building enterprise applications and backend solutions using .NET.
+Software Engineer focused on building scalable applications and backend solutions using .NET.
 
-Throughout my career, I've worked across both .NET Framework and modern .NET ecosystems, designing APIs, integrating complex business processes and building scalable systems focused on maintainability, performance and long-term evolution.
+Throughout my career, I've worked across both .NET Framework and modern .NET ecosystems, designing APIs, integrating complex business processes and building systems focused on maintainability, performance and long-term evolution.
 
 My current focus is software architecture, distributed systems, cloud-native solutions and AI integration using Large Language Models (LLMs).
 
@@ -118,9 +118,15 @@ Current areas of specialization:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRoberto-Git&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=1f6feb&icon_color=1f6feb" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusRoberto-Git&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRoberto-Git&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=1f6feb" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusRoberto-Git&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MatheusRoberto-Git&bg_color=0d1117&color=34d399&line=10b981&point=6ee7b7&hide_border=true" />
 
 </div>
 
@@ -148,5 +154,5 @@ Current areas of specialization:
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:10b981,100:0d1117&height=100&section=footer" />
 </div>
